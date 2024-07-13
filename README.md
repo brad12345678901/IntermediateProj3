@@ -2,7 +2,7 @@
 ERC20 introduces a standard for fungible tokens, this project is an implementation of an ERC20 Template by OpenZeppelin with the provided functions that follows the standard of ERC20 for fungible tokens.
 
 ## Description
-ERC20 is a technical standard for fungible tokens, these are similarly like a set of rules to follow so ethereum assets are smoothly operated within the ethereum ecosystem. This project demostrate the implementation of ERC20 with an added burn and minting functionality as well as an Ownable modifier from OpenZeppelin for security.
+ERC20 is a technical standard for fungible tokens, these are similarly like a set of rules to follow so ethereum assets are smoothly operated within the ethereum ecosystem. This project demostrate the implementation and functionality of ERC20 with an added burn and minting functionality as well as an Ownable modifier from OpenZeppelin for security.
 
 ## Setting Up Remix
 To start the program, use Remix https://remix.ethereum.org, an powerful Etherium IDE to run the program
