@@ -11,7 +11,11 @@ contract SwordToken is ERC20, Ownable {
     function burn(uint256 _amount) public {
         _burn(_msgSender(), _amount);   
     }
-    function mint(address to, uint256 _amount) public onlyOwner {
+    function mint(address to, uint256 _amount) public payable onlyOwner {
         _mint(to, _amount);
+    }
+    function transferto (address to, uint256 _amount) public {
+        approve(_msgSender(), _amount);
+        transferFrom(_msgSender(), to, _amount);
     }
 }
