@@ -17,9 +17,9 @@ Inside, click the bar under "Compiler", select the appropriate compiler version.
 Now you're set, verify if the file exist in your workspace, if not, you can import it by selecting the icon ![image](https://github.com/brad12345678901/TAC-Solidity/assets/90821323/d3d418dd-7454-4917-8de6-ad1f1321344c)  and navigate where the file is located inside
 your disk. After uploading, click the file in your workspace.
 
-Go to the Solidity Compiler ![image](https://github.com/brad12345678901/TAC-Solidity/assets/90821323/5546c4df-222f-4f56-b21c-8e8d497ea11b) and the selected contract should be the file you imported. In this case, "intermediateproj1.sol"
+Go to the Solidity Compiler ![image](https://github.com/brad12345678901/TAC-Solidity/assets/90821323/5546c4df-222f-4f56-b21c-8e8d497ea11b) and the selected contract should be the file you imported. In this case, "intermediateproj3.sol"
 
-Click "Compile intermediateproj1.sol" or <b>Ctrl + S </b>
+Click "Compile intermediateproj3.sol" or <b>Ctrl + S </b>
 
 Now navigate to "Deploy and Run Transaction" ![image](https://github.com/brad12345678901/TAC-Solidity/assets/90821323/d736eed0-98e0-4f83-8bf9-ccab5dce70c3) and deploy the contract "SwordToken"
 
