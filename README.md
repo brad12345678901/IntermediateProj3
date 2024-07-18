@@ -21,6 +21,6 @@ Go to the Solidity Compiler ![image](https://github.com/brad12345678901/TAC-Soli
 
 Click "Compile intermediateproj1.sol" or <b>Ctrl + S </b>
 
-Now navigate to "Deploy and Run Transaction" ![image](https://github.com/brad12345678901/TAC-Solidity/assets/90821323/d736eed0-98e0-4f83-8bf9-ccab5dce70c3) and deploy the contract "MyToken"
+Now navigate to "Deploy and Run Transaction" ![image](https://github.com/brad12345678901/TAC-Solidity/assets/90821323/d736eed0-98e0-4f83-8bf9-ccab5dce70c3) and deploy the contract "SwordToken"
 
 Once it is deployed, you can interact with it by going to the "Deployed/Unpinned Contracts" and call the functions provided by the ERC20 as well as the provided minting and burning functions.
